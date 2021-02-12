@@ -1,0 +1,2 @@
+latihan membuat AJAX / http request menggunakan XHR (XMLHttpRequest) dan juga menggunakan Fetch.
+latihan ini dipelajari dari materi kelas Front-End Web Developer yang dibuat oleh Dicoding Academy Indonesia (dicoding.com).
